@@ -1,0 +1,6 @@
+id=HscBoosting
+name=Generic SPRD HSC Watch Booster
+version=v2.5
+versionCode=5
+author=@Github C-Hidery
+description=This is a generic boosting module for HSC System. This module will fix fake rom&ram, fake 5G wireless, add text in quick settings, fake android version, add card page on old hsc versio, add common watchface.
