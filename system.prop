@@ -1,0 +1,50 @@
+# This file will be read by resetprop
+# 示例: 更改 dpi
+# ro.sf.lcd_density=360
+# vendor.display.lcd_density=360
+# 此文件映射 /system/build.prop
+
+
+ro.show.setting.island=false
+persist.sys.5g=false
+ro.show.nfc.settings=false
+ro.show.drainage=false 
+ro.hsc.wearzhifubao=false
+persist.sys.android.version=8.1
+persist.sys.cpu=4
+ro.hsc.fake_romram=false
+#ro.product.pri.model=Z9
+#ro.product.model=Z9
+ro.longpower.oppo=true
+#ro.product.manufacturer=XTC
+ro.hsc.iosui=true
+hsc.type=ios
+ro.hsc.singlekey=true
+persist.sys.camera_excessive_animation=true
+presist.sys.ft.nostatusbar=false
+ro.hsc.iot=true
+ro.show.setting.side_button_select=true
+usb.mtp.open=true
+ro.show.setting.island=false
+persist.sys.5g=false
+ro.hsc.fake_romram=false
+ro.show.ScreenShot=true
+ro.hsc.enableencoder=true
+ro.config.encoder_vibrate_time=60
+ro.show.deviceiinfo.ram=false
+presist.sys.ft.nostatusbar=true
+add.salesservices.register=true
+ro.hsc.showQSTileText=true
+ro.hsc.statistics=true
+ro.softap.whitelist=false
+ro.show.ram.rom.Gb=false
+rom.set32g=32G
+ram.set32g=2GB
+ram.set32g.true=2GB
+rom.set16g=16G
+ram.set16g=2GB
+ram.set16g.true=2GB
+rom.set64g=64G
+ram.set64g=4GB
+ram.set64g.true=4G
+persist.sys.rom.fake=0
